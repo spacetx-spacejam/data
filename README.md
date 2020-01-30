@@ -2,15 +2,15 @@
 Mouse
 
 
-| | Method |species| N datasets|gene list|notes|
-| ----: | ---- | ---- | ---- | ---- | ---- |
-| 1 |DARTFISH| *M. musculus*| | [DARTFISH_genes](DARTFISH_genes.csv)||
-| 2 |MERFISH (Zhuang: MOp) | *M. musculus*| | [MERFISH_genes](MERFISH_genes.csv)||
+| | Method |species| N datasets|gene list|spot table| cell x gene | notes|
+| ----: | ---- | ---- | ---- | ---- | ---- | --- | --- |
+| 1 |DARTFISH| *M. musculus*| | [DARTFISH_genes](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/DARTFISH_genes.csv)||
+| 2 |MERFISH (Zhuang: MOp) | *M. musculus*| | [MERFISH_genes](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/DARTFISH_genes.csv)||
 | 3 |osmFISH| *M. musculus*| | [osmFISH_genes](osmFISH_genes.csv)||
-| 4 |BARISTASeq| *M. musculus*| | [BARISTASeq_genes](Baristaseq_genes.csv)||
-| 5 |ISS| *M. musculus*| | [ISS_genes](ISS_genes.csv)||
-| 6 |ExSeq| *M. musculus*| | [ExSeq](ExSeq_genes.csv)||
-| 7 |SeqFISH| *M. musculus*| | [SeqFISH](SeqFISH_genes.csv)||
+| 4 |BARISTASeq| *M. musculus*| | [BARISTASeq_genes](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/BARISTASEQ_genes.csv)||
+| 5 |ISS| *M. musculus*| | [ISS_genes](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/ISS_genes.csv)||
+| 6 |ExSeq| *M. musculus*| | [ExSeq](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/exseq_genes.csv)||
+| 7 |SeqFISH| *M. musculus*| | [SeqFISH](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/seqfish_genes.csv)||
 | 8 |MERFISH (Allen: VISp) | *M. musculus*| | [MERFISH_genes](MERFISH_genes.csv)||
 
 
