@@ -11,7 +11,7 @@
 | 5 |ISS| *M. musculus*| | [ISS_genes](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/ISS_genes.csv)||
 | 6 |ExSeq| *M. musculus*| | [ExSeq](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/exseq_genes.csv)||
 | 7 |SeqFISH| *M. musculus*| | [SeqFISH](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/seqfish_genes.csv)||
-| 8 |MERFISH (Allen: VISp, same panel as Zhuang lab above) | *M. musculus*| | [MERFISH_genes](MERFISH_genes.csv)||
+| 8 |MERFISH (Allen: VISp, same panel as Zhuang lab above) | *M. musculus*| | [MERFISH_genes](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/MERFISH_genes.csv))||
 
 
 
