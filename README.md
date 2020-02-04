@@ -13,9 +13,9 @@
 |10|10x-Visium/ST| *M. musculus*|n/a|n/a|[observation x gene table 1](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-1-count-matrix.tsv.gz), [observation x gene table 2](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-2-count-matrix.tsv.gz), [observation x gene table 3](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-3-count-matrix.tsv.gz), [observation x gene table 4](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-4-count-matrix.tsv.gz)||*each file is a gzipped tsv*
 |11|Slide-seq||||||*have lots of data, need help wrangling!*
 
-
-***
-
-
-
+# old data!
 [**THIS SPREADSHEET**](https://docs.google.com/spreadsheets/d/1CN7kn8ELg9dhVPDkeb7JB02NYYTNUEqfaKkO40yWDzM/edit?usp=sharing) contains links to all the data and many of the analyses from the first spacejam, including the **RNA-seq reference data and consensus clusters**.  Several of these files are shared in the "spacetx" slack workspace.  Please ask [Jeremy](mailto:jeremym@alleninstitute.org) to invite you if needed, or if you have any questions about data access for things in this table.
+
+# results!
+## Please post your results [**HERE**](https://docs.google.com/spreadsheets/d/1Y_TapftVtEOo5JMtndVqct1lTw0hQOau35aPtdSjsTE/edit?usp=sharing)!
+Add a row to the relevant sheet corresponding either to the data-set or meta-analysis that you have done or add additional sheets as needed.  Make sure the link to your result is here as well as a separate link (if needed) to some details about what your result actually means so others can use your results or compare their results against yours.
