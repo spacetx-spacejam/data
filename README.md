@@ -1,4 +1,7 @@
-# data!
+## Background:
+This repo houses links to data for the SpaceTx Spacejam hackathons. If you have questions on the contents of the table below, please make an issue [here](https://github.com/spacetx-spacejam/data/issues). Updates on the SpaceTx wrapup and related publications will be announced here- stay tuned! 
+
+### Spacetx SpaceJam data
 | | Method |species| N datasets|gene list|spot table| cell x gene | notes|
 | ----: | ---- | ---- | ---- | ---- | ---- | --- | --- |
 | 1 |DARTFISH| *M. musculus* and *H. sapiens*| | [DARTFISH_genes](https://github.com/spacetx-spacejam/data/blob/master/gene_lists/DARTFISH_genes.csv)|[SpotTable Human 1 (frontal cortex)](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/DARTFISH/DARTFISH_DecodedSpots_Hs_FCtx_20180122.csv) [SpotTable Human 2 (occipital cortex)](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/DARTFISH/DARTFISH_DecodedSpots_Hs_OCtx_20180122.csv),  [SpotTable Mouse 1](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/DARTFISH/DARTFISH_DecodedSpots_Mm_20190513_rev2.csv)|[CellxGene Human (frontal cortex) 1](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/DARTFISH/DARTFISH_CellxGene_Hs_FCtx_20180122_T.csv),  [CellxGene Human 2 (occipital cortex)](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/DARTFISH/DARTFISH_CellxGene_Hs_OCtx_20180122_T.csv) [CellxGene Mouse 1](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/DARTFISH/DARTFISH_CellxGenes_Mm_20190513_rev2_T.csv) | [stitched DAPI for Mouse dataset](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/DARTFISH/DARTFISH_StitchedNuclei_Mm_20190513_rev2.tif)
@@ -12,10 +15,3 @@
 |9|Allen smFISH VISp, (spacejam1)|*M. musculus*||[smfish_genes](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/smFISH_Allen/gene_list.csv)|[SpotTable Mouse VISp](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/smFISH_Allen/smFISH_MCT_CZI_Panel_0_spot_table.csv)||[nucleus segmentation (geojson)](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/smFISH_Allen/SongLinROIS_deduplicated.json)
 |10|10x-Visium/ST| *M. musculus*|n/a|n/a|[observation x gene table 1](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-1-count-matrix.tsv.gz), [observation x gene table 2](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-2-count-matrix.tsv.gz), [observation x gene table 3](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-3-count-matrix.tsv.gz), [observation x gene table 4](https://s3.amazonaws.com/starfish.data.spacetx/spacejam2/spatial-transcriptomics-alma/Allen-4-count-matrix.tsv.gz)||*each file is a gzipped tsv* [Example analysis](https://github.com/almaan/spacetx)
 |11|Slide-seq||||||*have lots of data, need help wrangling!*
-
-# old data!
-[**THIS SPREADSHEET**](https://docs.google.com/spreadsheets/d/1CN7kn8ELg9dhVPDkeb7JB02NYYTNUEqfaKkO40yWDzM/edit?usp=sharing) contains links to all the data and many of the analyses from the first spacejam, including the **RNA-seq reference data and consensus clusters**.  Several of these files are shared in the "spacetx" slack workspace.  Please ask [Jeremy](mailto:jeremym@alleninstitute.org) to invite you if needed, or if you have any questions about data access for things in this table.
-
-# results!
-## Please post your results [**HERE**](https://docs.google.com/spreadsheets/d/1Y_TapftVtEOo5JMtndVqct1lTw0hQOau35aPtdSjsTE/edit?usp=sharing)!
-Add a row to the relevant sheet corresponding either to the data-set or meta-analysis that you have done or add additional sheets as needed.  Make sure the link to your result is here as well as a separate link (if needed) to some details about what your result actually means so others can use your results or compare their results against yours.
